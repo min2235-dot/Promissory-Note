@@ -1,8 +1,7 @@
 # Promissory Note
 
-這個 repo 目前有兩部分：
+這個 repo 目前主要放：
 
-- `index.html`：本票產生器網頁工具（用 pdf-lib 產生本票 PDF）。
 - `.claude/skills/bznk-whitelist-check/`：BZNK 新送審案件「白名單快速通道」
   判定的 Claude Skill。
 
